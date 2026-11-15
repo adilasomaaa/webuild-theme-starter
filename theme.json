@@ -1,0 +1,277 @@
+{
+    "key": "starter",
+    "name": "Starter",
+    "version": "1.0.0",
+    "api_version": "1.1",
+    "description": "Tema portal publik Starter untuk Webuild",
+    "authors": [
+        {
+            "name": "Theme Developer",
+            "email": "dev@example.com"
+        }
+    ],
+    "settings_schema": {
+        "primary_color": {
+            "type": "color",
+            "default": "#2563eb",
+            "label": "Warna Utama"
+        },
+        "secondary_color": {
+            "type": "color",
+            "default": "#1e40af",
+            "label": "Warna Sekunder"
+        },
+        "accent_color": {
+            "type": "color",
+            "default": "#0ea5e9",
+            "label": "Warna Aksen"
+        }
+    },
+    "sections": {
+        "header": [
+            "header_logo",
+            "header_menu",
+            "header_search",
+            "header_button",
+            "empty"
+        ],
+        "main": [
+            "hero",
+            "slider",
+            "contents",
+            "content_reference",
+            "organization_structure",
+            "faq",
+            "profile_video",
+            "single_highlight",
+            "documents",
+            "document_reference",
+            "agenda",
+            "registered_applications",
+            "rich_text",
+            "maklumat_pelayanan",
+            "image",
+            "html_embed",
+            "card_info",
+            "card_grid",
+            "audio",
+            "media_gallery",
+            "contact",
+            "maps_embed",
+            "geo_map",
+            "booking_methods",
+            "booking_tracking",
+            "guestbook_widget",
+            "pranala",
+            "social_media"
+        ],
+        "footer": [
+            "footer",
+            "quick_links"
+        ]
+    },
+    "component_variants": {
+        "header_logo": {
+            "configuration_key": "mode",
+            "default": "logo_name",
+            "options": {
+                "logo_name": {
+                    "label": "Logo dan nama"
+                },
+                "logo_only": {
+                    "label": "Logo saja"
+                },
+                "name_only": {
+                    "label": "Nama saja"
+                }
+            }
+        },
+        "header_button": {
+            "configuration_key": "button_variant",
+            "default": "primary",
+            "options": {
+                "primary": {
+                    "label": "Utama"
+                },
+                "secondary": {
+                    "label": "Sekunder"
+                },
+                "outline": {
+                    "label": "Outline"
+                }
+            }
+        },
+        "contents": {
+            "configuration_key": "layout_variant",
+            "default": "grid",
+            "options": {
+                "grid": {
+                    "label": "Grid"
+                },
+                "list": {
+                    "label": "Daftar"
+                },
+                "featured_list": {
+                    "label": "Sorotan"
+                }
+            }
+        },
+        "media_gallery": {
+            "configuration_key": "layout_variant",
+            "default": "asymmetric_grid",
+            "options": {
+                "asymmetric_grid": {
+                    "label": "Grid Editorial"
+                },
+                "marquee": {
+                    "label": "Marquee"
+                }
+            }
+        },
+        "agenda": {
+            "configuration_key": "timeframe",
+            "default": "today",
+            "options": {
+                "today": {
+                    "label": "Hari Ini"
+                },
+                "this_week": {
+                    "label": "Minggu Ini"
+                },
+                "this_month": {
+                    "label": "Bulan Ini"
+                }
+            }
+        },
+        "documents": {
+            "configuration_key": "layout_variant",
+            "default": "grid",
+            "options": {
+                "grid": {
+                    "label": "Grid"
+                },
+                "list": {
+                    "label": "Daftar"
+                }
+            }
+        },
+        "faq": {
+            "configuration_key": "layout_orientation",
+            "default": "vertical",
+            "options": {
+                "vertical": {
+                    "label": "Vertikal"
+                },
+                "horizontal": {
+                    "label": "Horizontal"
+                }
+            }
+        },
+        "slider": {
+            "configuration_key": "aspect_ratio",
+            "default": "21:9",
+            "options": {
+                "21:9": {
+                    "label": "Panorama"
+                },
+                "16:10": {
+                    "label": "Layar Lebar"
+                },
+                "4:3": {
+                    "label": "Klasik"
+                },
+                "16:9": {
+                    "label": "Video"
+                }
+            }
+        }
+    },
+    "component_settings": {
+        "header_logo": {
+            "mode": {
+                "type": "select",
+                "label": "Tampilan logo",
+                "default": "logo_name",
+                "options": {
+                    "logo_name": "Logo dan nama",
+                    "logo_only": "Logo saja",
+                    "name_only": "Nama saja"
+                }
+            }
+        },
+        "header_search": {
+            "placeholder": {
+                "type": "text",
+                "label": "Teks pencarian",
+                "default": "Cari informasi..."
+            }
+        },
+        "header_button": {
+            "button_text": {
+                "type": "text",
+                "label": "Teks tombol",
+                "default": "Hubungi Kami"
+            },
+            "button_url": {
+                "type": "url",
+                "label": "Tautan tombol",
+                "default": "/f/guestbook"
+            },
+            "button_variant": {
+                "type": "select",
+                "label": "Variant tombol",
+                "default": "primary",
+                "options": {
+                    "primary": "Utama",
+                    "secondary": "Sekunder",
+                    "outline": "Outline"
+                }
+            }
+        },
+        "footer": {
+            "copyright_text": {
+                "type": "text",
+                "label": "Teks hak cipta",
+                "default": "All Rights Reserved"
+            },
+            "privacy_url": {
+                "type": "url",
+                "label": "Tautan kebijakan privasi",
+                "default": ""
+            },
+            "terms_url": {
+                "type": "url",
+                "label": "Tautan syarat layanan",
+                "default": ""
+            },
+            "contact_url": {
+                "type": "url",
+                "label": "Tautan kontak",
+                "default": "/f/guestbook"
+            }
+        },
+        "quick_links": {
+            "title": {
+                "type": "text",
+                "label": "Judul",
+                "default": "Tautan Cepat"
+            },
+            "links": {
+                "type": "array",
+                "label": "Daftar tautan",
+                "default": []
+            }
+        }
+    },
+    "assets": {
+        "styles": [
+            "dist/theme.css"
+        ],
+        "scripts": [
+            {
+                "path": "dist/theme.js",
+                "type": "module"
+            }
+        ]
+    }
+}

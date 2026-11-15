@@ -1,0 +1,28 @@
+{
+    "name": "webuild/theme-starter",
+    "description": "Tema portal publik Starter untuk Webuild",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "php": "^8.2",
+        "webuild/theme-kit": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Webuild\\Themes\\Starter\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Webuild\\Themes\\Starter\\ThemeServiceProvider"
+            ]
+        }
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/adilasomaaa/webuild-theme-kit"
+        }
+    ]
+}

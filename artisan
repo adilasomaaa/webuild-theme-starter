@@ -1,0 +1,78 @@
+#!/usr/bin/env php
+<?php
+
+define('LARAVEL_START', microtime(true));
+
+// Locate vendor autoload
+$autoloadFiles = [
+    __DIR__ . '/vendor/autoload.php',
+    __DIR__ . '/../theme-kit/vendor/autoload.php',
+    __DIR__ . '/../../theme-kit/vendor/autoload.php',
+    __DIR__ . '/../webuild-app/vendor/autoload.php',
+    dirname(__DIR__, 1) . '/webuild-app/vendor/autoload.php',
+];
+
+$autoloadLoaded = false;
+foreach ($autoloadFiles as $file) {
+    if (file_exists($file)) {
+        require_once $file;
+        if (class_exists(Illuminate\Foundation\Application::class)) {
+            $autoloadLoaded = true;
+            break;
+        }
+    }
+}
+
+if (! $autoloadLoaded && ! class_exists(Illuminate\Foundation\Application::class)) {
+    fwrite(STDERR, "Laravel Application class tidak ditemukan. Jalankan 'composer install' terlebih dahulu.\n");
+    exit(1);
+}
+
+$possiblePaths = [
+    __DIR__ . '/vendor/webuild/theme-kit/workbench/bootstrap/app.php',
+    __DIR__ . '/../theme-kit/workbench/bootstrap/app.php',
+    __DIR__ . '/../../theme-kit/workbench/bootstrap/app.php',
+    dirname(__DIR__, 2) . '/theme-kit/workbench/bootstrap/app.php',
+];
+
+$workbenchBootstrap = null;
+foreach ($possiblePaths as $path) {
+    if (file_exists($path)) {
+        $workbenchBootstrap = $path;
+        break;
+    }
+}
+
+if (! $workbenchBootstrap) {
+    fwrite(STDERR, "Theme Kit workbench not found. Jalankan 'composer install' terlebih dahulu.\n");
+    exit(1);
+}
+
+putenv('THEME_PATH=' . __DIR__);
+$_ENV['THEME_PATH'] = __DIR__;
+@file_put_contents(dirname($workbenchBootstrap, 2) . '/storage/active_theme.txt', __DIR__);
+
+// Workbench resolves "themes.{key}.*" views from workbench/views/themes/{key}
+// and serves @themeAssets files from <root>/themes/{key}/dist.
+$manifest = json_decode((string) @file_get_contents(__DIR__ . '/theme.json'), true) ?: [];
+$themeKey = $manifest['key'] ?? basename(__DIR__);
+$linkTheme = function (string $link, string $target): void {
+    if (is_link($link) && realpath($link) !== realpath($target)) {
+        @unlink($link);
+    }
+    if (! file_exists($link)) {
+        @mkdir(dirname($link), 0755, true);
+        @symlink($target, $link);
+    }
+};
+$linkTheme(dirname($workbenchBootstrap, 2) . '/views/themes/' . $themeKey, __DIR__ . '/views');
+$linkTheme(dirname($workbenchBootstrap, 4) . '/themes/' . $themeKey, __DIR__);
+
+$app = require_once $workbenchBootstrap;
+$kernel = $app->make(Illuminate\Contracts\Console\Kernel::class);
+$status = $kernel->handle(
+    $input = new Symfony\Component\Console\Input\ArgvInput,
+    new Symfony\Component\Console\Output\ConsoleOutput
+);
+$kernel->terminate($input, $status);
+exit($status);

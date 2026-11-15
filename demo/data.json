@@ -1,0 +1,1404 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "title": "Pemerintah Daerah Perkuat Layanan Digital",
+      "slug": "pemerintah-daerah-perkuat-layanan-digital",
+      "summary": "Perluasan layanan digital memudahkan masyarakat mengakses informasi dan layanan publik.",
+      "content": "<p>Perluasan layanan digital memudahkan masyarakat mengakses informasi dan layanan publik.</p><p>Pemerintah Daerah Perkuat Layanan Digital merupakan bagian dari upaya pemerintah daerah meningkatkan kualitas pelayanan dan keterbukaan informasi kepada masyarakat.</p><h2>Langkah Selanjutnya</h2><p>Masyarakat dapat memantau perkembangan melalui portal resmi dan kanal media sosial instansi.</p>",
+      "thumbnail": "https://picsum.photos/seed/news1/1200/800",
+      "published_at": "2026-11-02T09:00:00+08:00",
+      "views_count": 320,
+      "category": {
+        "id": 1,
+        "name": "Pemerintahan",
+        "slug": "pemerintahan"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Pembangunan Jalan Lingkar Utara Capai 80 Persen",
+      "slug": "pembangunan-jalan-lingkar-utara-capai-80-persen",
+      "summary": "Progres fisik jalan lingkar ditargetkan rampung sebelum akhir tahun anggaran.",
+      "content": "<p>Progres fisik jalan lingkar ditargetkan rampung sebelum akhir tahun anggaran.</p><p>Pembangunan Jalan Lingkar Utara Capai 80 Persen merupakan bagian dari upaya pemerintah daerah meningkatkan kualitas pelayanan dan keterbukaan informasi kepada masyarakat.</p><h2>Langkah Selanjutnya</h2><p>Masyarakat dapat memantau perkembangan melalui portal resmi dan kanal media sosial instansi.</p>",
+      "thumbnail": "https://picsum.photos/seed/news2/1200/800",
+      "published_at": "2026-10-31T08:00:00+08:00",
+      "views_count": 297,
+      "category": {
+        "id": 3,
+        "name": "Ekonomi",
+        "slug": "ekonomi"
+      }
+    },
+    {
+      "id": 3,
+      "title": "Vaksinasi Anak Sekolah Diperluas ke 12 Kecamatan",
+      "slug": "vaksinasi-anak-sekolah-diperluas-ke-12-kecamatan",
+      "summary": "Dinas Kesehatan menambah titik layanan vaksinasi di sekolah dasar.",
+      "content": "<p>Dinas Kesehatan menambah titik layanan vaksinasi di sekolah dasar.</p><p>Vaksinasi Anak Sekolah Diperluas ke 12 Kecamatan merupakan bagian dari upaya pemerintah daerah meningkatkan kualitas pelayanan dan keterbukaan informasi kepada masyarakat.</p><h2>Langkah Selanjutnya</h2><p>Masyarakat dapat memantau perkembangan melalui portal resmi dan kanal media sosial instansi.</p>",
+      "thumbnail": "https://picsum.photos/seed/news3/1200/800",
+      "published_at": "2026-10-29T07:00:00+08:00",
+      "views_count": 274,
+      "category": {
+        "id": 4,
+        "name": "Kesehatan",
+        "slug": "kesehatan"
+      }
+    },
+    {
+      "id": 4,
+      "title": "UMKM Lokal Tembus Pasar Ekspor Kerajinan Rotan",
+      "slug": "umkm-lokal-tembus-pasar-ekspor-kerajinan-rotan",
+      "summary": "Pendampingan kurasi produk membuka akses pasar internasional bagi pelaku UMKM.",
+      "content": "<p>Pendampingan kurasi produk membuka akses pasar internasional bagi pelaku UMKM.</p><p>UMKM Lokal Tembus Pasar Ekspor Kerajinan Rotan merupakan bagian dari upaya pemerintah daerah meningkatkan kualitas pelayanan dan keterbukaan informasi kepada masyarakat.</p><h2>Langkah Selanjutnya</h2><p>Masyarakat dapat memantau perkembangan melalui portal resmi dan kanal media sosial instansi.</p>",
+      "thumbnail": "https://picsum.photos/seed/news4/1200/800",
+      "published_at": "2026-10-27T06:00:00+08:00",
+      "views_count": 251,
+      "category": {
+        "id": 5,
+        "name": "Pendidikan",
+        "slug": "pendidikan"
+      }
+    },
+    {
+      "id": 5,
+      "title": "Beasiswa Daerah 2026 Dibuka untuk 1.500 Pelajar",
+      "slug": "beasiswa-daerah-2026-dibuka-untuk-1-500-pelajar",
+      "summary": "Pendaftaran beasiswa dilakukan secara daring melalui portal resmi.",
+      "content": "<p>Pendaftaran beasiswa dilakukan secara daring melalui portal resmi.</p><p>Beasiswa Daerah 2026 Dibuka untuk 1.500 Pelajar merupakan bagian dari upaya pemerintah daerah meningkatkan kualitas pelayanan dan keterbukaan informasi kepada masyarakat.</p><h2>Langkah Selanjutnya</h2><p>Masyarakat dapat memantau perkembangan melalui portal resmi dan kanal media sosial instansi.</p>",
+      "thumbnail": "https://picsum.photos/seed/news5/1200/800",
+      "published_at": "2026-10-25T05:00:00+08:00",
+      "views_count": 228,
+      "category": {
+        "id": 6,
+        "name": "Infrastruktur",
+        "slug": "infrastruktur"
+      }
+    },
+    {
+      "id": 6,
+      "title": "Mal Pelayanan Publik Layani 3.000 Warga per Bulan",
+      "slug": "mal-pelayanan-publik-layani-3-000-warga-per-bulan",
+      "summary": "Integrasi layanan perizinan dan kependudukan mempercepat waktu tunggu.",
+      "content": "<p>Integrasi layanan perizinan dan kependudukan mempercepat waktu tunggu.</p><p>Mal Pelayanan Publik Layani 3.000 Warga per Bulan merupakan bagian dari upaya pemerintah daerah meningkatkan kualitas pelayanan dan keterbukaan informasi kepada masyarakat.</p><h2>Langkah Selanjutnya</h2><p>Masyarakat dapat memantau perkembangan melalui portal resmi dan kanal media sosial instansi.</p>",
+      "thumbnail": "https://picsum.photos/seed/news6/1200/800",
+      "published_at": "2026-10-23T04:00:00+08:00",
+      "views_count": 205,
+      "category": {
+        "id": 1,
+        "name": "Pemerintahan",
+        "slug": "pemerintahan"
+      }
+    },
+    {
+      "id": 7,
+      "title": "Musrenbang Kecamatan Serap 420 Usulan Warga",
+      "slug": "musrenbang-kecamatan-serap-420-usulan-warga",
+      "summary": "Usulan prioritas akan dibahas dalam forum perangkat daerah.",
+      "content": "<p>Usulan prioritas akan dibahas dalam forum perangkat daerah.</p><p>Musrenbang Kecamatan Serap 420 Usulan Warga merupakan bagian dari upaya pemerintah daerah meningkatkan kualitas pelayanan dan keterbukaan informasi kepada masyarakat.</p><h2>Langkah Selanjutnya</h2><p>Masyarakat dapat memantau perkembangan melalui portal resmi dan kanal media sosial instansi.</p>",
+      "thumbnail": "https://picsum.photos/seed/news7/1200/800",
+      "published_at": "2026-10-21T03:00:00+08:00",
+      "views_count": 182,
+      "category": {
+        "id": 3,
+        "name": "Ekonomi",
+        "slug": "ekonomi"
+      }
+    },
+    {
+      "id": 8,
+      "title": "Pasar Tani Digelar Setiap Sabtu di Alun-Alun",
+      "slug": "pasar-tani-digelar-setiap-sabtu-di-alun-alun",
+      "summary": "Petani lokal menjual hasil panen langsung kepada konsumen.",
+      "content": "<p>Petani lokal menjual hasil panen langsung kepada konsumen.</p><p>Pasar Tani Digelar Setiap Sabtu di Alun-Alun merupakan bagian dari upaya pemerintah daerah meningkatkan kualitas pelayanan dan keterbukaan informasi kepada masyarakat.</p><h2>Langkah Selanjutnya</h2><p>Masyarakat dapat memantau perkembangan melalui portal resmi dan kanal media sosial instansi.</p>",
+      "thumbnail": "https://picsum.photos/seed/news8/1200/800",
+      "published_at": "2026-10-19T02:00:00+08:00",
+      "views_count": 159,
+      "category": {
+        "id": 4,
+        "name": "Kesehatan",
+        "slug": "kesehatan"
+      }
+    },
+    {
+      "id": 9,
+      "title": "Pelatihan Literasi Digital bagi Aparatur Desa",
+      "slug": "pelatihan-literasi-digital-bagi-aparatur-desa",
+      "summary": "Ratusan perangkat desa mengikuti pelatihan keamanan data dan layanan daring.",
+      "content": "<p>Ratusan perangkat desa mengikuti pelatihan keamanan data dan layanan daring.</p><p>Pelatihan Literasi Digital bagi Aparatur Desa merupakan bagian dari upaya pemerintah daerah meningkatkan kualitas pelayanan dan keterbukaan informasi kepada masyarakat.</p><h2>Langkah Selanjutnya</h2><p>Masyarakat dapat memantau perkembangan melalui portal resmi dan kanal media sosial instansi.</p>",
+      "thumbnail": "https://picsum.photos/seed/news9/1200/800",
+      "published_at": "2026-10-17T01:00:00+08:00",
+      "views_count": 136,
+      "category": {
+        "id": 5,
+        "name": "Pendidikan",
+        "slug": "pendidikan"
+      }
+    },
+    {
+      "id": 10,
+      "title": "Jaringan Air Bersih Menjangkau 2.000 Rumah Baru",
+      "slug": "jaringan-air-bersih-menjangkau-2-000-rumah-baru",
+      "summary": "Perluasan jaringan perpipaan meningkatkan akses air minum layak.",
+      "content": "<p>Perluasan jaringan perpipaan meningkatkan akses air minum layak.</p><p>Jaringan Air Bersih Menjangkau 2.000 Rumah Baru merupakan bagian dari upaya pemerintah daerah meningkatkan kualitas pelayanan dan keterbukaan informasi kepada masyarakat.</p><h2>Langkah Selanjutnya</h2><p>Masyarakat dapat memantau perkembangan melalui portal resmi dan kanal media sosial instansi.</p>",
+      "thumbnail": "https://picsum.photos/seed/news10/1200/800",
+      "published_at": "2026-10-15T00:00:00+08:00",
+      "views_count": 113,
+      "category": {
+        "id": 6,
+        "name": "Infrastruktur",
+        "slug": "infrastruktur"
+      }
+    }
+  ],
+  "articles": [
+    {
+      "id": 11,
+      "title": "Mengenal Transformasi Pelayanan Publik",
+      "slug": "mengenal-transformasi-pelayanan-publik",
+      "summary": "Langkah sederhana untuk mendapatkan layanan publik secara daring.",
+      "content": "<p>Langkah sederhana untuk mendapatkan layanan publik secara daring.</p><p>Mengenal Transformasi Pelayanan Publik merupakan bagian dari upaya pemerintah daerah meningkatkan kualitas pelayanan dan keterbukaan informasi kepada masyarakat.</p><h2>Langkah Selanjutnya</h2><p>Masyarakat dapat memantau perkembangan melalui portal resmi dan kanal media sosial instansi.</p>",
+      "thumbnail": "https://picsum.photos/seed/article1/1200/800",
+      "published_at": "2026-11-01T09:00:00+08:00",
+      "views_count": 210,
+      "category": {
+        "id": 2,
+        "name": "Artikel",
+        "slug": "artikel"
+      }
+    },
+    {
+      "id": 12,
+      "title": "Panduan Mengurus Izin Usaha Mikro secara Online",
+      "slug": "panduan-mengurus-izin-usaha-mikro-secara-online",
+      "summary": "Tahapan lengkap mengurus NIB melalui sistem perizinan terintegrasi.",
+      "content": "<p>Tahapan lengkap mengurus NIB melalui sistem perizinan terintegrasi.</p><p>Panduan Mengurus Izin Usaha Mikro secara Online merupakan bagian dari upaya pemerintah daerah meningkatkan kualitas pelayanan dan keterbukaan informasi kepada masyarakat.</p><h2>Langkah Selanjutnya</h2><p>Masyarakat dapat memantau perkembangan melalui portal resmi dan kanal media sosial instansi.</p>",
+      "thumbnail": "https://picsum.photos/seed/article2/1200/800",
+      "published_at": "2026-10-29T09:00:00+08:00",
+      "views_count": 195,
+      "category": {
+        "id": 2,
+        "name": "Artikel",
+        "slug": "artikel"
+      }
+    },
+    {
+      "id": 13,
+      "title": "Pentingnya Keterbukaan Informasi Publik",
+      "slug": "pentingnya-keterbukaan-informasi-publik",
+      "summary": "Hak masyarakat atas informasi dan kewajiban badan publik.",
+      "content": "<p>Hak masyarakat atas informasi dan kewajiban badan publik.</p><p>Pentingnya Keterbukaan Informasi Publik merupakan bagian dari upaya pemerintah daerah meningkatkan kualitas pelayanan dan keterbukaan informasi kepada masyarakat.</p><h2>Langkah Selanjutnya</h2><p>Masyarakat dapat memantau perkembangan melalui portal resmi dan kanal media sosial instansi.</p>",
+      "thumbnail": "https://picsum.photos/seed/article3/1200/800",
+      "published_at": "2026-10-26T09:00:00+08:00",
+      "views_count": 180,
+      "category": {
+        "id": 2,
+        "name": "Artikel",
+        "slug": "artikel"
+      }
+    },
+    {
+      "id": 14,
+      "title": "Tips Menjaga Keamanan Data Pribadi",
+      "slug": "tips-menjaga-keamanan-data-pribadi",
+      "summary": "Kebiasaan sederhana untuk melindungi akun layanan daring Anda.",
+      "content": "<p>Kebiasaan sederhana untuk melindungi akun layanan daring Anda.</p><p>Tips Menjaga Keamanan Data Pribadi merupakan bagian dari upaya pemerintah daerah meningkatkan kualitas pelayanan dan keterbukaan informasi kepada masyarakat.</p><h2>Langkah Selanjutnya</h2><p>Masyarakat dapat memantau perkembangan melalui portal resmi dan kanal media sosial instansi.</p>",
+      "thumbnail": "https://picsum.photos/seed/article4/1200/800",
+      "published_at": "2026-10-23T09:00:00+08:00",
+      "views_count": 165,
+      "category": {
+        "id": 2,
+        "name": "Artikel",
+        "slug": "artikel"
+      }
+    },
+    {
+      "id": 15,
+      "title": "Memahami Alur Pengaduan Masyarakat",
+      "slug": "memahami-alur-pengaduan-masyarakat",
+      "summary": "Cara menyampaikan aduan agar cepat ditindaklanjuti instansi terkait.",
+      "content": "<p>Cara menyampaikan aduan agar cepat ditindaklanjuti instansi terkait.</p><p>Memahami Alur Pengaduan Masyarakat merupakan bagian dari upaya pemerintah daerah meningkatkan kualitas pelayanan dan keterbukaan informasi kepada masyarakat.</p><h2>Langkah Selanjutnya</h2><p>Masyarakat dapat memantau perkembangan melalui portal resmi dan kanal media sosial instansi.</p>",
+      "thumbnail": "https://picsum.photos/seed/article5/1200/800",
+      "published_at": "2026-10-20T09:00:00+08:00",
+      "views_count": 150,
+      "category": {
+        "id": 2,
+        "name": "Artikel",
+        "slug": "artikel"
+      }
+    },
+    {
+      "id": 16,
+      "title": "Mengenal Program Kota Layak Anak",
+      "slug": "mengenal-program-kota-layak-anak",
+      "summary": "Indikator dan peran warga dalam mewujudkan lingkungan ramah anak.",
+      "content": "<p>Indikator dan peran warga dalam mewujudkan lingkungan ramah anak.</p><p>Mengenal Program Kota Layak Anak merupakan bagian dari upaya pemerintah daerah meningkatkan kualitas pelayanan dan keterbukaan informasi kepada masyarakat.</p><h2>Langkah Selanjutnya</h2><p>Masyarakat dapat memantau perkembangan melalui portal resmi dan kanal media sosial instansi.</p>",
+      "thumbnail": "https://picsum.photos/seed/article6/1200/800",
+      "published_at": "2026-10-17T09:00:00+08:00",
+      "views_count": 135,
+      "category": {
+        "id": 2,
+        "name": "Artikel",
+        "slug": "artikel"
+      }
+    },
+    {
+      "id": 17,
+      "title": "Strategi Pengelolaan Sampah Berbasis Komunitas",
+      "slug": "strategi-pengelolaan-sampah-berbasis-komunitas",
+      "summary": "Bank sampah dan pemilahan dari rumah sebagai solusi berkelanjutan.",
+      "content": "<p>Bank sampah dan pemilahan dari rumah sebagai solusi berkelanjutan.</p><p>Strategi Pengelolaan Sampah Berbasis Komunitas merupakan bagian dari upaya pemerintah daerah meningkatkan kualitas pelayanan dan keterbukaan informasi kepada masyarakat.</p><h2>Langkah Selanjutnya</h2><p>Masyarakat dapat memantau perkembangan melalui portal resmi dan kanal media sosial instansi.</p>",
+      "thumbnail": "https://picsum.photos/seed/article7/1200/800",
+      "published_at": "2026-10-14T09:00:00+08:00",
+      "views_count": 120,
+      "category": {
+        "id": 2,
+        "name": "Artikel",
+        "slug": "artikel"
+      }
+    },
+    {
+      "id": 18,
+      "title": "Peran Pemuda dalam Pembangunan Daerah",
+      "slug": "peran-pemuda-dalam-pembangunan-daerah",
+      "summary": "Ruang partisipasi generasi muda dalam perencanaan pembangunan.",
+      "content": "<p>Ruang partisipasi generasi muda dalam perencanaan pembangunan.</p><p>Peran Pemuda dalam Pembangunan Daerah merupakan bagian dari upaya pemerintah daerah meningkatkan kualitas pelayanan dan keterbukaan informasi kepada masyarakat.</p><h2>Langkah Selanjutnya</h2><p>Masyarakat dapat memantau perkembangan melalui portal resmi dan kanal media sosial instansi.</p>",
+      "thumbnail": "https://picsum.photos/seed/article8/1200/800",
+      "published_at": "2026-10-11T09:00:00+08:00",
+      "views_count": 105,
+      "category": {
+        "id": 2,
+        "name": "Artikel",
+        "slug": "artikel"
+      }
+    },
+    {
+      "id": 19,
+      "title": "Membaca Laporan Keuangan Pemerintah Daerah",
+      "slug": "membaca-laporan-keuangan-pemerintah-daerah",
+      "summary": "Panduan singkat memahami APBD dan realisasi anggaran.",
+      "content": "<p>Panduan singkat memahami APBD dan realisasi anggaran.</p><p>Membaca Laporan Keuangan Pemerintah Daerah merupakan bagian dari upaya pemerintah daerah meningkatkan kualitas pelayanan dan keterbukaan informasi kepada masyarakat.</p><h2>Langkah Selanjutnya</h2><p>Masyarakat dapat memantau perkembangan melalui portal resmi dan kanal media sosial instansi.</p>",
+      "thumbnail": "https://picsum.photos/seed/article9/1200/800",
+      "published_at": "2026-10-08T09:00:00+08:00",
+      "views_count": 90,
+      "category": {
+        "id": 2,
+        "name": "Artikel",
+        "slug": "artikel"
+      }
+    },
+    {
+      "id": 20,
+      "title": "Wisata Alam Unggulan yang Wajib Dikunjungi",
+      "slug": "wisata-alam-unggulan-yang-wajib-dikunjungi",
+      "summary": "Rekomendasi destinasi alam dengan fasilitas ramah keluarga.",
+      "content": "<p>Rekomendasi destinasi alam dengan fasilitas ramah keluarga.</p><p>Wisata Alam Unggulan yang Wajib Dikunjungi merupakan bagian dari upaya pemerintah daerah meningkatkan kualitas pelayanan dan keterbukaan informasi kepada masyarakat.</p><h2>Langkah Selanjutnya</h2><p>Masyarakat dapat memantau perkembangan melalui portal resmi dan kanal media sosial instansi.</p>",
+      "thumbnail": "https://picsum.photos/seed/article10/1200/800",
+      "published_at": "2026-10-05T09:00:00+08:00",
+      "views_count": 75,
+      "category": {
+        "id": 2,
+        "name": "Artikel",
+        "slug": "artikel"
+      }
+    }
+  ],
+  "gallery": [
+    {
+      "id": 1,
+      "title": "Koordinasi Pembangunan Daerah",
+      "type": "image",
+      "media_url": null,
+      "file_url": null,
+      "external_url": null,
+      "embed_url": null,
+      "description": "Dokumentasi koordinasi pembangunan daerah.",
+      "image_url": "https://picsum.photos/seed/gallery1/1200/800",
+      "thumbnail_url": "https://picsum.photos/seed/gallery1/640/480",
+      "category_id": 1,
+      "category": {
+        "id": 1,
+        "name": "Kegiatan",
+        "slug": "kegiatan"
+      },
+      "created_at": "2026-11-02T09:00:00+08:00"
+    },
+    {
+      "id": 2,
+      "title": "Peninjauan Fasilitas Layanan",
+      "type": "image",
+      "media_url": null,
+      "file_url": null,
+      "external_url": null,
+      "embed_url": null,
+      "description": "Dokumentasi peninjauan fasilitas layanan.",
+      "image_url": "https://picsum.photos/seed/gallery2/1200/800",
+      "thumbnail_url": "https://picsum.photos/seed/gallery2/640/480",
+      "category_id": 2,
+      "category": {
+        "id": 2,
+        "name": "Pelayanan",
+        "slug": "pelayanan"
+      },
+      "created_at": "2026-10-31T09:00:00+08:00"
+    },
+    {
+      "id": 3,
+      "title": "Peresmian Jembatan Desa",
+      "type": "image",
+      "media_url": null,
+      "file_url": null,
+      "external_url": null,
+      "embed_url": null,
+      "description": "Dokumentasi peresmian jembatan desa.",
+      "image_url": "https://picsum.photos/seed/gallery3/1200/800",
+      "thumbnail_url": "https://picsum.photos/seed/gallery3/640/480",
+      "category_id": 3,
+      "category": {
+        "id": 3,
+        "name": "Pembangunan",
+        "slug": "pembangunan"
+      },
+      "created_at": "2026-10-29T09:00:00+08:00"
+    },
+    {
+      "id": 4,
+      "title": "Upacara Hari Jadi Daerah",
+      "type": "image",
+      "media_url": null,
+      "file_url": null,
+      "external_url": null,
+      "embed_url": null,
+      "description": "Dokumentasi upacara hari jadi daerah.",
+      "image_url": "https://picsum.photos/seed/gallery4/1200/800",
+      "thumbnail_url": "https://picsum.photos/seed/gallery4/640/480",
+      "category_id": 1,
+      "category": {
+        "id": 1,
+        "name": "Kegiatan",
+        "slug": "kegiatan"
+      },
+      "created_at": "2026-10-27T09:00:00+08:00"
+    },
+    {
+      "id": 5,
+      "title": "Pelayanan KTP Keliling",
+      "type": "image",
+      "media_url": null,
+      "file_url": null,
+      "external_url": null,
+      "embed_url": null,
+      "description": "Dokumentasi pelayanan ktp keliling.",
+      "image_url": "https://picsum.photos/seed/gallery5/1200/800",
+      "thumbnail_url": "https://picsum.photos/seed/gallery5/640/480",
+      "category_id": 2,
+      "category": {
+        "id": 2,
+        "name": "Pelayanan",
+        "slug": "pelayanan"
+      },
+      "created_at": "2026-10-25T09:00:00+08:00"
+    },
+    {
+      "id": 6,
+      "title": "Panen Raya Padi Organik",
+      "type": "image",
+      "media_url": null,
+      "file_url": null,
+      "external_url": null,
+      "embed_url": null,
+      "description": "Dokumentasi panen raya padi organik.",
+      "image_url": "https://picsum.photos/seed/gallery6/1200/800",
+      "thumbnail_url": "https://picsum.photos/seed/gallery6/640/480",
+      "category_id": 3,
+      "category": {
+        "id": 3,
+        "name": "Pembangunan",
+        "slug": "pembangunan"
+      },
+      "created_at": "2026-10-23T09:00:00+08:00"
+    },
+    {
+      "id": 7,
+      "title": "Festival Budaya Nusantara",
+      "type": "image",
+      "media_url": null,
+      "file_url": null,
+      "external_url": null,
+      "embed_url": null,
+      "description": "Dokumentasi festival budaya nusantara.",
+      "image_url": "https://picsum.photos/seed/gallery7/1200/800",
+      "thumbnail_url": "https://picsum.photos/seed/gallery7/640/480",
+      "category_id": 1,
+      "category": {
+        "id": 1,
+        "name": "Kegiatan",
+        "slug": "kegiatan"
+      },
+      "created_at": "2026-10-21T09:00:00+08:00"
+    },
+    {
+      "id": 8,
+      "title": "Kunjungan Kerja ke Puskesmas",
+      "type": "image",
+      "media_url": null,
+      "file_url": null,
+      "external_url": null,
+      "embed_url": null,
+      "description": "Dokumentasi kunjungan kerja ke puskesmas.",
+      "image_url": "https://picsum.photos/seed/gallery8/1200/800",
+      "thumbnail_url": "https://picsum.photos/seed/gallery8/640/480",
+      "category_id": 2,
+      "category": {
+        "id": 2,
+        "name": "Pelayanan",
+        "slug": "pelayanan"
+      },
+      "created_at": "2026-10-19T09:00:00+08:00"
+    },
+    {
+      "id": 9,
+      "title": "Gotong Royong Bersih Pantai",
+      "type": "image",
+      "media_url": null,
+      "file_url": null,
+      "external_url": null,
+      "embed_url": null,
+      "description": "Dokumentasi gotong royong bersih pantai.",
+      "image_url": "https://picsum.photos/seed/gallery9/1200/800",
+      "thumbnail_url": "https://picsum.photos/seed/gallery9/640/480",
+      "category_id": 3,
+      "category": {
+        "id": 3,
+        "name": "Pembangunan",
+        "slug": "pembangunan"
+      },
+      "created_at": "2026-10-17T09:00:00+08:00"
+    },
+    {
+      "id": 10,
+      "title": "Video Profil Daerah 2026",
+      "type": "video",
+      "media_url": null,
+      "file_url": null,
+      "external_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "embed_url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "description": "Dokumentasi video profil daerah 2026.",
+      "image_url": "https://picsum.photos/seed/gallery10/1200/800",
+      "thumbnail_url": "https://picsum.photos/seed/gallery10/640/480",
+      "category_id": 1,
+      "category": {
+        "id": 1,
+        "name": "Kegiatan",
+        "slug": "kegiatan"
+      },
+      "created_at": "2026-10-15T09:00:00+08:00"
+    }
+  ],
+  "agenda": [
+    {
+      "id": 1,
+      "title": "Rapat Koordinasi Pembangunan Daerah",
+      "slug": "rapat-koordinasi-pembangunan-daerah",
+      "description": "Rapat Koordinasi Pembangunan Daerah bersama perangkat daerah terkait.",
+      "location": "Aula Kantor Gubernur",
+      "start_at": "2026-11-02T08:00:00+08:00",
+      "end_at": "2026-11-02T10:00:00+08:00",
+      "official_name": "Drs. Budi Santoso",
+      "official_position": "Sekretaris Daerah",
+      "organizer": "Sekretariat Daerah"
+    },
+    {
+      "id": 2,
+      "title": "Apel Pagi Aparatur Sipil Negara",
+      "slug": "apel-pagi-aparatur-sipil-negara",
+      "description": "Apel Pagi Aparatur Sipil Negara bersama perangkat daerah terkait.",
+      "location": "Halaman Kantor Bupati",
+      "start_at": "2026-11-02T09:00:00+08:00",
+      "end_at": "2026-11-02T11:00:00+08:00",
+      "official_name": "H. Ahmad Yani, S.H.",
+      "official_position": "Bupati",
+      "organizer": "Bagian Umum"
+    },
+    {
+      "id": 3,
+      "title": "Sosialisasi Perizinan Berusaha",
+      "slug": "sosialisasi-perizinan-berusaha",
+      "description": "Sosialisasi Perizinan Berusaha bersama perangkat daerah terkait.",
+      "location": "Gedung Serbaguna",
+      "start_at": "2026-11-03T10:00:00+08:00",
+      "end_at": "2026-11-03T12:00:00+08:00",
+      "official_name": "Ir. Siti Rahma",
+      "official_position": "Kepala DPMPTSP",
+      "organizer": "DPMPTSP"
+    },
+    {
+      "id": 4,
+      "title": "Rapat Paripurna DPRD",
+      "slug": "rapat-paripurna-dprd",
+      "description": "Rapat Paripurna DPRD bersama perangkat daerah terkait.",
+      "location": "Gedung DPRD",
+      "start_at": "2026-11-04T11:00:00+08:00",
+      "end_at": "2026-11-04T13:00:00+08:00",
+      "official_name": "Dr. Hendra Wijaya",
+      "official_position": "Ketua DPRD",
+      "organizer": "Sekretariat DPRD"
+    },
+    {
+      "id": 5,
+      "title": "Kunjungan Kerja ke Kecamatan Utara",
+      "slug": "kunjungan-kerja-ke-kecamatan-utara",
+      "description": "Kunjungan Kerja ke Kecamatan Utara bersama perangkat daerah terkait.",
+      "location": "Kantor Camat Utara",
+      "start_at": "2026-11-05T12:00:00+08:00",
+      "end_at": "2026-11-05T14:00:00+08:00",
+      "official_name": "H. Ahmad Yani, S.H.",
+      "official_position": "Bupati",
+      "organizer": "Bagian Protokol"
+    },
+    {
+      "id": 6,
+      "title": "Forum Konsultasi Publik Renja",
+      "slug": "forum-konsultasi-publik-renja",
+      "description": "Forum Konsultasi Publik Renja bersama perangkat daerah terkait.",
+      "location": "Ruang Rapat Bappeda",
+      "start_at": "2026-11-07T08:00:00+08:00",
+      "end_at": "2026-11-07T10:00:00+08:00",
+      "official_name": "Dra. Maria Ulfa",
+      "official_position": "Kepala Bappeda",
+      "organizer": "Bappeda"
+    },
+    {
+      "id": 7,
+      "title": "Peluncuran Aplikasi Layanan Terpadu",
+      "slug": "peluncuran-aplikasi-layanan-terpadu",
+      "description": "Peluncuran Aplikasi Layanan Terpadu bersama perangkat daerah terkait.",
+      "location": "Mal Pelayanan Publik",
+      "start_at": "2026-11-09T09:00:00+08:00",
+      "end_at": "2026-11-09T11:00:00+08:00",
+      "official_name": "Drs. Budi Santoso",
+      "official_position": "Sekretaris Daerah",
+      "organizer": "Diskominfo"
+    },
+    {
+      "id": 8,
+      "title": "Pelatihan Kader Posyandu",
+      "slug": "pelatihan-kader-posyandu",
+      "description": "Pelatihan Kader Posyandu bersama perangkat daerah terkait.",
+      "location": "Puskesmas Kota",
+      "start_at": "2026-11-12T10:00:00+08:00",
+      "end_at": "2026-11-12T12:00:00+08:00",
+      "official_name": "dr. Rina Kartika",
+      "official_position": "Kepala Dinas Kesehatan",
+      "organizer": "Dinas Kesehatan"
+    },
+    {
+      "id": 9,
+      "title": "Lomba Desa Inovatif",
+      "slug": "lomba-desa-inovatif",
+      "description": "Lomba Desa Inovatif bersama perangkat daerah terkait.",
+      "location": "Balai Desa Sukamaju",
+      "start_at": "2026-11-16T11:00:00+08:00",
+      "end_at": "2026-11-16T13:00:00+08:00",
+      "official_name": "H. Ahmad Yani, S.H.",
+      "official_position": "Bupati",
+      "organizer": "DPMD"
+    },
+    {
+      "id": 10,
+      "title": "Evaluasi Kinerja Triwulan IV",
+      "slug": "evaluasi-kinerja-triwulan-iv",
+      "description": "Evaluasi Kinerja Triwulan IV bersama perangkat daerah terkait.",
+      "location": "Aula Kantor Gubernur",
+      "start_at": "2026-11-23T12:00:00+08:00",
+      "end_at": "2026-11-23T14:00:00+08:00",
+      "official_name": "Drs. Budi Santoso",
+      "official_position": "Sekretaris Daerah",
+      "organizer": "Bagian Organisasi"
+    }
+  ],
+  "documents": [
+    {
+      "id": 1,
+      "title": "Peraturan Daerah tentang Layanan Digital",
+      "slug": "peraturan-daerah-tentang-layanan-digital",
+      "description": "Dokumen resmi: peraturan daerah tentang layanan digital.",
+      "file_name": "peraturan-daerah-tentang-layanan-digital.pdf",
+      "file_path": "demo/peraturan-daerah-tentang-layanan-digital.pdf",
+      "file_size": "1.2 MB",
+      "file_type": "pdf",
+      "download_count": 245,
+      "view_count": 681,
+      "category_id": 1,
+      "category": {
+        "id": 1,
+        "name": "Peraturan Daerah",
+        "slug": "perda"
+      },
+      "created_at": "2026-10-13T09:00:00+08:00"
+    },
+    {
+      "id": 2,
+      "title": "Laporan Kinerja Instansi Pemerintah 2025",
+      "slug": "laporan-kinerja-instansi-pemerintah-2025",
+      "description": "Dokumen resmi: laporan kinerja instansi pemerintah 2025.",
+      "file_name": "laporan-kinerja-instansi-pemerintah-2025.pdf",
+      "file_path": "demo/laporan-kinerja-instansi-pemerintah-2025.pdf",
+      "file_size": "1.6 MB",
+      "file_type": "pdf",
+      "download_count": 228,
+      "view_count": 640,
+      "category_id": 2,
+      "category": {
+        "id": 2,
+        "name": "Laporan",
+        "slug": "laporan"
+      },
+      "created_at": "2026-10-04T09:00:00+08:00"
+    },
+    {
+      "id": 3,
+      "title": "Rencana Strategis 2025-2029",
+      "slug": "rencana-strategis-2025-2029",
+      "description": "Dokumen resmi: rencana strategis 2025-2029.",
+      "file_name": "rencana-strategis-2025-2029.docx",
+      "file_path": "demo/rencana-strategis-2025-2029.docx",
+      "file_size": "2.0 MB",
+      "file_type": "docx",
+      "download_count": 211,
+      "view_count": 599,
+      "category_id": 3,
+      "category": {
+        "id": 3,
+        "name": "Rencana Strategis",
+        "slug": "renstra"
+      },
+      "created_at": "2026-09-25T09:00:00+08:00"
+    },
+    {
+      "id": 4,
+      "title": "SOP Pelayanan Perizinan",
+      "slug": "sop-pelayanan-perizinan",
+      "description": "Dokumen resmi: sop pelayanan perizinan.",
+      "file_name": "sop-pelayanan-perizinan.pdf",
+      "file_path": "demo/sop-pelayanan-perizinan.pdf",
+      "file_size": "2.4 MB",
+      "file_type": "pdf",
+      "download_count": 194,
+      "view_count": 558,
+      "category_id": 4,
+      "category": {
+        "id": 4,
+        "name": "Standar Operasional",
+        "slug": "sop"
+      },
+      "created_at": "2026-09-16T09:00:00+08:00"
+    },
+    {
+      "id": 5,
+      "title": "Peraturan Daerah tentang Retribusi",
+      "slug": "peraturan-daerah-tentang-retribusi",
+      "description": "Dokumen resmi: peraturan daerah tentang retribusi.",
+      "file_name": "peraturan-daerah-tentang-retribusi.xlsx",
+      "file_path": "demo/peraturan-daerah-tentang-retribusi.xlsx",
+      "file_size": "2.8 MB",
+      "file_type": "xlsx",
+      "download_count": 177,
+      "view_count": 517,
+      "category_id": 1,
+      "category": {
+        "id": 1,
+        "name": "Peraturan Daerah",
+        "slug": "perda"
+      },
+      "created_at": "2026-09-07T09:00:00+08:00"
+    },
+    {
+      "id": 6,
+      "title": "Laporan Keuangan Pemerintah Daerah 2025",
+      "slug": "laporan-keuangan-pemerintah-daerah-2025",
+      "description": "Dokumen resmi: laporan keuangan pemerintah daerah 2025.",
+      "file_name": "laporan-keuangan-pemerintah-daerah-2025.pdf",
+      "file_path": "demo/laporan-keuangan-pemerintah-daerah-2025.pdf",
+      "file_size": "3.2 MB",
+      "file_type": "pdf",
+      "download_count": 160,
+      "view_count": 476,
+      "category_id": 2,
+      "category": {
+        "id": 2,
+        "name": "Laporan",
+        "slug": "laporan"
+      },
+      "created_at": "2026-08-29T09:00:00+08:00"
+    },
+    {
+      "id": 7,
+      "title": "Rencana Kerja Tahunan 2027",
+      "slug": "rencana-kerja-tahunan-2027",
+      "description": "Dokumen resmi: rencana kerja tahunan 2027.",
+      "file_name": "rencana-kerja-tahunan-2027.pdf",
+      "file_path": "demo/rencana-kerja-tahunan-2027.pdf",
+      "file_size": "3.6 MB",
+      "file_type": "pdf",
+      "download_count": 143,
+      "view_count": 435,
+      "category_id": 3,
+      "category": {
+        "id": 3,
+        "name": "Rencana Strategis",
+        "slug": "renstra"
+      },
+      "created_at": "2026-08-20T09:00:00+08:00"
+    },
+    {
+      "id": 8,
+      "title": "SOP Pengelolaan Pengaduan",
+      "slug": "sop-pengelolaan-pengaduan",
+      "description": "Dokumen resmi: sop pengelolaan pengaduan.",
+      "file_name": "sop-pengelolaan-pengaduan.docx",
+      "file_path": "demo/sop-pengelolaan-pengaduan.docx",
+      "file_size": "4.0 MB",
+      "file_type": "docx",
+      "download_count": 126,
+      "view_count": 394,
+      "category_id": 4,
+      "category": {
+        "id": 4,
+        "name": "Standar Operasional",
+        "slug": "sop"
+      },
+      "created_at": "2026-08-11T09:00:00+08:00"
+    },
+    {
+      "id": 9,
+      "title": "Peraturan Bupati tentang Tata Naskah Dinas",
+      "slug": "peraturan-bupati-tentang-tata-naskah-dinas",
+      "description": "Dokumen resmi: peraturan bupati tentang tata naskah dinas.",
+      "file_name": "peraturan-bupati-tentang-tata-naskah-dinas.pdf",
+      "file_path": "demo/peraturan-bupati-tentang-tata-naskah-dinas.pdf",
+      "file_size": "4.4 MB",
+      "file_type": "pdf",
+      "download_count": 109,
+      "view_count": 353,
+      "category_id": 1,
+      "category": {
+        "id": 1,
+        "name": "Peraturan Daerah",
+        "slug": "perda"
+      },
+      "created_at": "2026-08-02T09:00:00+08:00"
+    },
+    {
+      "id": 10,
+      "title": "Laporan Penyelenggaraan Pemerintahan Daerah",
+      "slug": "laporan-penyelenggaraan-pemerintahan-daerah",
+      "description": "Dokumen resmi: laporan penyelenggaraan pemerintahan daerah.",
+      "file_name": "laporan-penyelenggaraan-pemerintahan-daerah.xlsx",
+      "file_path": "demo/laporan-penyelenggaraan-pemerintahan-daerah.xlsx",
+      "file_size": "4.8 MB",
+      "file_type": "xlsx",
+      "download_count": 92,
+      "view_count": 312,
+      "category_id": 2,
+      "category": {
+        "id": 2,
+        "name": "Laporan",
+        "slug": "laporan"
+      },
+      "created_at": "2026-07-24T09:00:00+08:00"
+    }
+  ],
+  "faqs": [
+    {
+      "id": 1,
+      "question": "Bagaimana cara mengajukan layanan secara daring?",
+      "answer": "Pilih layanan yang dibutuhkan, lengkapi formulir, lalu ikuti petunjuk pengiriman dokumen.",
+      "category": "Layanan",
+      "sort_order": 1,
+      "status": "terbit",
+      "published_at": "2026-10-08T09:00:00+08:00"
+    },
+    {
+      "id": 2,
+      "question": "Berapa lama proses penerbitan izin usaha?",
+      "answer": "Izin usaha mikro terbit otomatis, sedangkan izin lain diproses paling lama 5 hari kerja.",
+      "category": "Layanan",
+      "sort_order": 2,
+      "status": "terbit",
+      "published_at": "2026-10-09T09:00:00+08:00"
+    },
+    {
+      "id": 3,
+      "question": "Apakah layanan di Mal Pelayanan Publik dipungut biaya?",
+      "answer": "Sebagian besar layanan gratis. Biaya resmi diumumkan di loket dan portal.",
+      "category": "Layanan",
+      "sort_order": 3,
+      "status": "terbit",
+      "published_at": "2026-10-10T09:00:00+08:00"
+    },
+    {
+      "id": 4,
+      "question": "Di mana saya dapat mengunduh dokumen peraturan daerah?",
+      "answer": "Buka menu Dokumen, lalu pilih kategori Peraturan Daerah.",
+      "category": "Dokumen",
+      "sort_order": 4,
+      "status": "terbit",
+      "published_at": "2026-10-11T09:00:00+08:00"
+    },
+    {
+      "id": 5,
+      "question": "Bagaimana cara meminta informasi publik?",
+      "answer": "Ajukan permohonan melalui PPID dengan menyertakan identitas dan rincian informasi.",
+      "category": "Dokumen",
+      "sort_order": 5,
+      "status": "terbit",
+      "published_at": "2026-10-12T09:00:00+08:00"
+    },
+    {
+      "id": 6,
+      "question": "Apakah dokumen yang diunduh merupakan salinan resmi?",
+      "answer": "Dokumen di portal adalah salinan digital; salinan legalisir dapat diminta ke instansi.",
+      "category": "Dokumen",
+      "sort_order": 6,
+      "status": "terbit",
+      "published_at": "2026-10-13T09:00:00+08:00"
+    },
+    {
+      "id": 7,
+      "question": "Bagaimana cara menyampaikan pengaduan?",
+      "answer": "Gunakan menu Buku Tamu atau kanal pengaduan resmi yang tersedia di portal.",
+      "category": "Pengaduan",
+      "sort_order": 7,
+      "status": "terbit",
+      "published_at": "2026-10-14T09:00:00+08:00"
+    },
+    {
+      "id": 8,
+      "question": "Kapan pengaduan saya ditanggapi?",
+      "answer": "Pengaduan ditanggapi paling lambat 3 hari kerja sejak diterima.",
+      "category": "Pengaduan",
+      "sort_order": 8,
+      "status": "terbit",
+      "published_at": "2026-10-15T09:00:00+08:00"
+    },
+    {
+      "id": 9,
+      "question": "Bagaimana cara melakukan reservasi kunjungan?",
+      "answer": "Buka menu Booking Kunjungan, pilih jadwal, dan simpan kode booking Anda.",
+      "category": "Reservasi",
+      "sort_order": 9,
+      "status": "terbit",
+      "published_at": "2026-10-16T09:00:00+08:00"
+    },
+    {
+      "id": 10,
+      "question": "Bisakah reservasi dibatalkan?",
+      "answer": "Reservasi dapat dibatalkan melalui halaman Lacak Booking paling lambat H-1.",
+      "category": "Reservasi",
+      "sort_order": 10,
+      "status": "terbit",
+      "published_at": "2026-10-17T09:00:00+08:00"
+    }
+  ],
+  "sliders": [
+    {
+      "id": 1,
+      "title": "Informasi dan Layanan Publik dalam Satu Portal",
+      "description": "Akses informasi resmi pemerintah daerah dengan mudah.",
+      "image_url": "https://picsum.photos/seed/slider1/1800/900",
+      "button_url": "/news",
+      "button_text": "Lihat informasi",
+      "is_active": true,
+      "sort_order": 1
+    },
+    {
+      "id": 2,
+      "title": "Bersama Membangun Daerah",
+      "description": "Temukan agenda, program, dan dokumen publik.",
+      "image_url": "https://picsum.photos/seed/slider2/1800/900",
+      "button_url": "/f/agenda",
+      "button_text": "Lihat agenda",
+      "is_active": true,
+      "sort_order": 2
+    },
+    {
+      "id": 3,
+      "title": "Mal Pelayanan Publik Kini Buka Hari Sabtu",
+      "description": "Layanan kependudukan dan perizinan tersedia setiap Sabtu.",
+      "image_url": "https://picsum.photos/seed/slider3/1800/900",
+      "button_url": "/news",
+      "button_text": "Selengkapnya",
+      "is_active": true,
+      "sort_order": 3
+    },
+    {
+      "id": 4,
+      "title": "Transparansi Anggaran Daerah",
+      "description": "Unduh laporan keuangan dan dokumen perencanaan.",
+      "image_url": "https://picsum.photos/seed/slider4/1800/900",
+      "button_url": "/document",
+      "button_text": "Lihat dokumen",
+      "is_active": true,
+      "sort_order": 4
+    },
+    {
+      "id": 5,
+      "title": "Festival Budaya Nusantara 2026",
+      "description": "Saksikan ragam budaya daerah di alun-alun kota.",
+      "image_url": "https://picsum.photos/seed/slider5/1800/900",
+      "button_url": "/media",
+      "button_text": "Lihat galeri",
+      "is_active": true,
+      "sort_order": 5
+    },
+    {
+      "id": 6,
+      "title": "Beasiswa Daerah Telah Dibuka",
+      "description": "Daftarkan diri Anda sebelum 30 November 2026.",
+      "image_url": "https://picsum.photos/seed/slider6/1800/900",
+      "button_url": "/news",
+      "button_text": "Daftar sekarang",
+      "is_active": true,
+      "sort_order": 6
+    },
+    {
+      "id": 7,
+      "title": "Reservasi Kunjungan secara Daring",
+      "description": "Atur jadwal kunjungan tanpa antre.",
+      "image_url": "https://picsum.photos/seed/slider7/1800/900",
+      "button_url": "/f/booking",
+      "button_text": "Booking sekarang",
+      "is_active": true,
+      "sort_order": 7
+    },
+    {
+      "id": 8,
+      "title": "Sampaikan Aspirasi Anda",
+      "description": "Suara masyarakat menjadi dasar perbaikan layanan.",
+      "image_url": "https://picsum.photos/seed/slider8/1800/900",
+      "button_url": "/f/guestbook",
+      "button_text": "Isi buku tamu",
+      "is_active": true,
+      "sort_order": 8
+    },
+    {
+      "id": 9,
+      "title": "Wisata Alam Unggulan Daerah",
+      "description": "Jelajahi destinasi alam yang memikat.",
+      "image_url": "https://picsum.photos/seed/slider9/1800/900",
+      "button_url": "/article",
+      "button_text": "Baca artikel",
+      "is_active": true,
+      "sort_order": 9
+    },
+    {
+      "id": 10,
+      "title": "Pertanyaan Seputar Layanan?",
+      "description": "Temukan jawaban di halaman FAQ.",
+      "image_url": "https://picsum.photos/seed/slider10/1800/900",
+      "button_url": "/f/faqs",
+      "button_text": "Buka FAQ",
+      "is_active": true,
+      "sort_order": 10
+    }
+  ],
+  "pages": [
+    {
+      "id": 1,
+      "title": "Profil Instansi",
+      "slug": "profil-instansi",
+      "summary": "Halaman profil instansi.",
+      "content": "<p>Informasi profil instansi instansi.</p>"
+    },
+    {
+      "id": 2,
+      "title": "Visi dan Misi",
+      "slug": "visi-dan-misi",
+      "summary": "Halaman visi dan misi.",
+      "content": "<p>Informasi visi dan misi instansi.</p>"
+    },
+    {
+      "id": 3,
+      "title": "Sejarah",
+      "slug": "sejarah",
+      "summary": "Halaman sejarah.",
+      "content": "<p>Informasi sejarah instansi.</p>"
+    },
+    {
+      "id": 4,
+      "title": "Tugas dan Fungsi",
+      "slug": "tugas-dan-fungsi",
+      "summary": "Halaman tugas dan fungsi.",
+      "content": "<p>Informasi tugas dan fungsi instansi.</p>"
+    },
+    {
+      "id": 5,
+      "title": "Struktur Organisasi",
+      "slug": "struktur-organisasi",
+      "summary": "Halaman struktur organisasi.",
+      "content": "<p>Informasi struktur organisasi instansi.</p>"
+    },
+    {
+      "id": 6,
+      "title": "Kontak Kami",
+      "slug": "kontak-kami",
+      "summary": "Halaman kontak kami.",
+      "content": "<p>Informasi kontak kami instansi.</p>"
+    },
+    {
+      "id": 7,
+      "title": "Maklumat Pelayanan",
+      "slug": "maklumat-pelayanan",
+      "summary": "Halaman maklumat pelayanan.",
+      "content": "<p>Informasi maklumat pelayanan instansi.</p>"
+    },
+    {
+      "id": 8,
+      "title": "Standar Pelayanan",
+      "slug": "standar-pelayanan",
+      "summary": "Halaman standar pelayanan.",
+      "content": "<p>Informasi standar pelayanan instansi.</p>"
+    },
+    {
+      "id": 9,
+      "title": "Kebijakan Privasi",
+      "slug": "kebijakan-privasi",
+      "summary": "Halaman kebijakan privasi.",
+      "content": "<p>Informasi kebijakan privasi instansi.</p>"
+    },
+    {
+      "id": 10,
+      "title": "Syarat dan Ketentuan",
+      "slug": "syarat-dan-ketentuan",
+      "summary": "Halaman syarat dan ketentuan.",
+      "content": "<p>Informasi syarat dan ketentuan instansi.</p>"
+    }
+  ],
+  "links": [
+    {
+      "id": 1,
+      "title": "Portal Nasional Indonesia",
+      "url": "https://indonesia.go.id",
+      "description": "Portal informasi resmi pemerintah Indonesia.",
+      "category": "Pemerintah Pusat",
+      "logo_url": "https://ui-avatars.com/api/?name=Portal+Nasional+Indonesia&background=0f766e&color=fff&size=128&bold=true",
+      "sort_order": 1,
+      "is_active": true
+    },
+    {
+      "id": 2,
+      "title": "SP4N-LAPOR!",
+      "url": "https://www.lapor.go.id",
+      "description": "Layanan aspirasi dan pengaduan online rakyat.",
+      "category": "Layanan Publik",
+      "logo_url": "https://ui-avatars.com/api/?name=SP4N-LAPOR!&background=0f766e&color=fff&size=128&bold=true",
+      "sort_order": 2,
+      "is_active": true
+    },
+    {
+      "id": 3,
+      "title": "LPSE",
+      "url": "https://lpse.lkpp.go.id",
+      "description": "Layanan pengadaan secara elektronik.",
+      "category": "Pengadaan",
+      "logo_url": "https://ui-avatars.com/api/?name=LPSE&background=0f766e&color=fff&size=128&bold=true",
+      "sort_order": 3,
+      "is_active": true
+    },
+    {
+      "id": 4,
+      "title": "SiRUP LKPP",
+      "url": "https://sirup.lkpp.go.id",
+      "description": "Sistem informasi rencana umum pengadaan.",
+      "category": "Pengadaan",
+      "logo_url": "https://ui-avatars.com/api/?name=SiRUP+LKPP&background=0f766e&color=fff&size=128&bold=true",
+      "sort_order": 4,
+      "is_active": true
+    },
+    {
+      "id": 5,
+      "title": "JDIH Nasional",
+      "url": "https://jdihn.go.id",
+      "description": "Jaringan dokumentasi dan informasi hukum.",
+      "category": "Hukum",
+      "logo_url": "https://ui-avatars.com/api/?name=JDIH+Nasional&background=0f766e&color=fff&size=128&bold=true",
+      "sort_order": 5,
+      "is_active": true
+    },
+    {
+      "id": 6,
+      "title": "Satu Data Indonesia",
+      "url": "https://data.go.id",
+      "description": "Portal data terbuka pemerintah.",
+      "category": "Data",
+      "logo_url": "https://ui-avatars.com/api/?name=Satu+Data+Indonesia&background=0f766e&color=fff&size=128&bold=true",
+      "sort_order": 6,
+      "is_active": true
+    },
+    {
+      "id": 7,
+      "title": "Badan Pusat Statistik",
+      "url": "https://www.bps.go.id",
+      "description": "Data dan statistik resmi nasional.",
+      "category": "Data",
+      "logo_url": "https://ui-avatars.com/api/?name=Badan+Pusat+Statistik&background=0f766e&color=fff&size=128&bold=true",
+      "sort_order": 7,
+      "is_active": true
+    },
+    {
+      "id": 8,
+      "title": "Kementerian Kominfo",
+      "url": "https://www.komdigi.go.id",
+      "description": "Kementerian Komunikasi dan Digital.",
+      "category": "Pemerintah Pusat",
+      "logo_url": "https://ui-avatars.com/api/?name=Kementerian+Kominfo&background=0f766e&color=fff&size=128&bold=true",
+      "sort_order": 8,
+      "is_active": true
+    },
+    {
+      "id": 9,
+      "title": "PPID Daerah",
+      "url": "https://ppid.example.go.id",
+      "description": "Pejabat pengelola informasi dan dokumentasi.",
+      "category": "Layanan Publik",
+      "logo_url": "https://ui-avatars.com/api/?name=PPID+Daerah&background=0f766e&color=fff&size=128&bold=true",
+      "sort_order": 9,
+      "is_active": true
+    },
+    {
+      "id": 10,
+      "title": "OSS Perizinan",
+      "url": "https://oss.go.id",
+      "description": "Perizinan berusaha terintegrasi secara elektronik.",
+      "category": "Layanan Publik",
+      "logo_url": "https://ui-avatars.com/api/?name=OSS+Perizinan&background=0f766e&color=fff&size=128&bold=true",
+      "sort_order": 10,
+      "is_active": true
+    }
+  ],
+  "social_media": [
+    {
+      "platform": "instagram",
+      "label": "Instagram",
+      "url": "https://instagram.com/diskominfo.demo"
+    },
+    {
+      "platform": "facebook",
+      "label": "Facebook",
+      "url": "https://facebook.com/diskominfo.demo"
+    },
+    {
+      "platform": "twitter",
+      "label": "X (Twitter)",
+      "url": "https://x.com/diskominfo_demo"
+    },
+    {
+      "platform": "youtube",
+      "label": "YouTube",
+      "url": "https://youtube.com/@diskominfo.demo"
+    },
+    {
+      "platform": "website",
+      "label": "Situs Resmi",
+      "url": "https://diskominfo.example.go.id"
+    },
+    {
+      "platform": "tiktok",
+      "label": "TikTok",
+      "url": "https://tiktok.com/@diskominfo.demo"
+    },
+    {
+      "platform": "linkedin",
+      "label": "LinkedIn",
+      "url": "https://linkedin.com/company/diskominfo-demo"
+    },
+    {
+      "platform": "whatsapp",
+      "label": "WhatsApp",
+      "url": "https://wa.me/6281234567890"
+    },
+    {
+      "platform": "telegram",
+      "label": "Telegram",
+      "url": "https://t.me/diskominfo_demo"
+    },
+    {
+      "platform": "email",
+      "label": "Email",
+      "url": "mailto:diskominfo@example.go.id"
+    }
+  ],
+  "organization_structures": [
+    {
+      "id": 1,
+      "parent_id": null,
+      "position_name": "Kepala Dinas",
+      "slug": "kepala-dinas",
+      "is_leader": true,
+      "sort_order": 1,
+      "description": "Kepala Dinas bertanggung jawab atas pelaksanaan tugas dan fungsi sesuai bidangnya.",
+      "holders": [
+        {
+          "name": "Dr. Ir. Hasan Basri, M.Si.",
+          "nip": "19710212 200101 1 001",
+          "photo_url": "https://i.pravatar.cc/400?img=11",
+          "contact": "dr-ir-hasan-@example.go.id"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "parent_id": 1,
+      "position_name": "Sekretaris Dinas",
+      "slug": "sekretaris-dinas",
+      "is_leader": false,
+      "sort_order": 2,
+      "description": "Sekretaris Dinas bertanggung jawab atas pelaksanaan tugas dan fungsi sesuai bidangnya.",
+      "holders": [
+        {
+          "name": "Dra. Nur Aini, M.M.",
+          "nip": "19720312 200201 1 002",
+          "photo_url": "https://i.pravatar.cc/400?img=12",
+          "contact": "dra-nur-aini@example.go.id"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "parent_id": 1,
+      "position_name": "Kepala Bidang Aplikasi Informatika",
+      "slug": "kepala-bidang-aplikasi-informatika",
+      "is_leader": false,
+      "sort_order": 3,
+      "description": "Kepala Bidang Aplikasi Informatika bertanggung jawab atas pelaksanaan tugas dan fungsi sesuai bidangnya.",
+      "holders": [
+        {
+          "name": "Rahmat Hidayat, S.Kom., M.T.",
+          "nip": "19730412 200301 1 003",
+          "photo_url": "https://i.pravatar.cc/400?img=13",
+          "contact": "rahmat-hiday@example.go.id"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "parent_id": 1,
+      "position_name": "Kepala Bidang Informasi dan Komunikasi Publik",
+      "slug": "kepala-bidang-informasi-dan-komunikasi-publik",
+      "is_leader": false,
+      "sort_order": 4,
+      "description": "Kepala Bidang Informasi dan Komunikasi Publik bertanggung jawab atas pelaksanaan tugas dan fungsi sesuai bidangnya.",
+      "holders": [
+        {
+          "name": "Fitri Handayani, S.Sos.",
+          "nip": "19740512 200401 1 004",
+          "photo_url": "https://i.pravatar.cc/400?img=14",
+          "contact": "fitri-handay@example.go.id"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "parent_id": 1,
+      "position_name": "Kepala Bidang Statistik",
+      "slug": "kepala-bidang-statistik",
+      "is_leader": false,
+      "sort_order": 5,
+      "description": "Kepala Bidang Statistik bertanggung jawab atas pelaksanaan tugas dan fungsi sesuai bidangnya.",
+      "holders": [
+        {
+          "name": "Agus Salim, S.Si., M.Stat.",
+          "nip": "19750612 200501 1 005",
+          "photo_url": "https://i.pravatar.cc/400?img=15",
+          "contact": "agus-salim-s@example.go.id"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "parent_id": 1,
+      "position_name": "Kepala Bidang Persandian",
+      "slug": "kepala-bidang-persandian",
+      "is_leader": false,
+      "sort_order": 6,
+      "description": "Kepala Bidang Persandian bertanggung jawab atas pelaksanaan tugas dan fungsi sesuai bidangnya.",
+      "holders": [
+        {
+          "name": "Yusuf Ramadhan, S.T.",
+          "nip": "19760712 200601 1 006",
+          "photo_url": "https://i.pravatar.cc/400?img=16",
+          "contact": "yusuf-ramadh@example.go.id"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "parent_id": 2,
+      "position_name": "Kepala Subbagian Umum dan Kepegawaian",
+      "slug": "kepala-subbagian-umum-dan-kepegawaian",
+      "is_leader": false,
+      "sort_order": 7,
+      "description": "Kepala Subbagian Umum dan Kepegawaian bertanggung jawab atas pelaksanaan tugas dan fungsi sesuai bidangnya.",
+      "holders": [
+        {
+          "name": "Siti Maryam, S.H.",
+          "nip": "19770812 200701 1 007",
+          "photo_url": "https://i.pravatar.cc/400?img=17",
+          "contact": "siti-maryam-@example.go.id"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "parent_id": 2,
+      "position_name": "Kepala Subbagian Keuangan",
+      "slug": "kepala-subbagian-keuangan",
+      "is_leader": false,
+      "sort_order": 8,
+      "description": "Kepala Subbagian Keuangan bertanggung jawab atas pelaksanaan tugas dan fungsi sesuai bidangnya.",
+      "holders": [
+        {
+          "name": "Dewi Lestari, S.E., Ak.",
+          "nip": "19780912 200801 1 008",
+          "photo_url": "https://i.pravatar.cc/400?img=18",
+          "contact": "dewi-lestari@example.go.id"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "parent_id": 2,
+      "position_name": "Kepala Subbagian Perencanaan",
+      "slug": "kepala-subbagian-perencanaan",
+      "is_leader": false,
+      "sort_order": 9,
+      "description": "Kepala Subbagian Perencanaan bertanggung jawab atas pelaksanaan tugas dan fungsi sesuai bidangnya.",
+      "holders": [
+        {
+          "name": "Irfan Maulana, S.P.",
+          "nip": "19790112 200001 1 009",
+          "photo_url": "https://i.pravatar.cc/400?img=19",
+          "contact": "irfan-maulan@example.go.id"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "parent_id": 3,
+      "position_name": "Kepala Seksi Tata Kelola E-Government",
+      "slug": "kepala-seksi-tata-kelola-e-government",
+      "is_leader": false,
+      "sort_order": 10,
+      "description": "Kepala Seksi Tata Kelola E-Government bertanggung jawab atas pelaksanaan tugas dan fungsi sesuai bidangnya.",
+      "holders": [
+        {
+          "name": "Andi Pratama, S.Kom.",
+          "nip": "19800212 200101 1 0010",
+          "photo_url": "https://i.pravatar.cc/400?img=20",
+          "contact": "andi-pratama@example.go.id"
+        }
+      ]
+    }
+  ]
+}
