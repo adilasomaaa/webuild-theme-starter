@@ -4,13 +4,27 @@ Kerangka tema portal publik Webuild yang sudah berisi desain dasar berbasis Tail
 Setiap halaman dan section punya isi minimal yang berfungsi, sehingga bisa langsung dipakai
 atau dijadikan acuan saat membuat tema baru.
 
+## Panduan Pembuatan Tema
+
+Mulai dari [docs/guide/pembuatan-tema](docs/guide/pembuatan-tema/README.md): alur desain UI/UX di
+Figma, [inventaris komponen & variant](docs/guide/pembuatan-tema/02-inventaris-komponen.md),
+persiapan, pengembangan, hingga rilis.
+
 ## Menjalankan di Lingkungan Lokal
 
+Buat repo baru dari template ini (**Use this template**), lalu:
+
 ```bash
-composer install
+composer install     # memasang webuild/theme-kit dari Packagist
 npm install
 npm run build        # atau: npm run dev (build ulang otomatis saat file berubah)
 php artisan serve
+```
+
+Pasang skill agen AI (Claude Code, Codex, Antigravity, Cursor, dll.):
+
+```bash
+npx skills add adilasomaaa/webuild-skills
 ```
 
 Buka `http://localhost:8000`. `artisan` otomatis menautkan tema ini ke workbench Theme Kit

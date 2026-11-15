@@ -18,11 +18,5 @@
                 "Webuild\\Themes\\Starter\\ThemeServiceProvider"
             ]
         }
-    },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/adilasomaaa/webuild-theme-kit"
-        }
-    ]
+    }
 }
